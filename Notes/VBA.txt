@@ -1,0 +1,14 @@
+Excel VBA
+
+[[ KEYWORDS: ]]
+set= creates a new worksheet
+& concatentator strictly for strings
++ concatentator 
+
+---------------------------------------------------------------
+[[ CODES: ]]
+
+lastRow = Cells(Rows.Count, 1).End(xlUp).Row
+lastColumn = cells(1, Columns.Count).Enx(xlToLeft).Column
+
+
